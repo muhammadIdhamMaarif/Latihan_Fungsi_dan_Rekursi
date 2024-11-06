@@ -1,0 +1,3 @@
+﻿  Nomor2.cpp
+D:\(172,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Nomor2.vcxproj -> D:\### SCHOOL ###\College\Tugas\Pemrograman Dasar\Latihan Fungsi Rekursi\Nomor2\Nomor2\x64\Debug\Nomor2.exe

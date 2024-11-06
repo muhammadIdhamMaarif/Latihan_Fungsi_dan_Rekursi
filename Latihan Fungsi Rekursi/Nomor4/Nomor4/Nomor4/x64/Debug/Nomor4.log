@@ -1,0 +1,3 @@
+﻿  Nomor4.cpp
+D:\(17,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Nomor4.vcxproj -> D:\### SCHOOL ###\College\Tugas\Pemrograman Dasar\Latihan Fungsi Rekursi\Nomor4\Nomor4\x64\Debug\Nomor4.exe

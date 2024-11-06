@@ -6,6 +6,13 @@
 #include <limits>        //include library limits untuk batasan nilai int
 #include <cmath>         //include library cmath untuk fungsi matematika
 
+/*
+    Muhammad Idham Ma'arif
+    245150300111024
+    Teknik Komputer 24
+    <3
+*/
+
 int len;                                        //variabel global untuk panjang array
 int maks = std::numeric_limits<int>::min();     //variabel untuk nilai maksimum, diinisialisasi dengan nilai minimum int
 int maksLen;                                    //variabel global untuk menyimpan panjang maksimum judul
